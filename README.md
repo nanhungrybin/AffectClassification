@@ -1,3 +1,4 @@
 # AffectClassification
 
-![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/d95a4436-a61f-4970-bd16-bbc7697d0a57)
+![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/a02ed4ee-17ce-4ff5-97a9-bf95770b0909)
+
