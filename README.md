@@ -8,4 +8,5 @@
 
 ### Affectnet ( 20 epoch )
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/f292a0f7-5be5-4b31-b986-0718fde29db3)
-
+![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/fe28850b-1306-4b24-8a5c-7dce585458b9)
+최종 TEST 성능 : 0.5414285714285715
