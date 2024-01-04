@@ -6,5 +6,6 @@
 ### ExpW
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/57fc78c3-4dbf-4ffe-bb58-ce9d69d5b9c9)
 
-### Affectnet ( 15 epoch )
-![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/4f4c01e4-55f3-4c7b-b7b2-35ea686a98d4)
+### Affectnet ( 20 epoch )
+![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/f292a0f7-5be5-4b31-b986-0718fde29db3)
+
