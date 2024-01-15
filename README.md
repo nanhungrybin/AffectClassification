@@ -14,4 +14,18 @@
 
 ### Affectnet ( 20 epoch _ resnet 50)
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/1c25946c-e4ff-471f-82eb-8cd79741c9ed)
+최종 TEST 성능 : 0.5588571428571428
+- Class 0: 366 samples correctly predicted. => Class 0 Accuracy: 0.7320
+- Class 1: 458 samples correctly predicted. => Class 1 Accuracy: 0.9160
+- Class 2: 289 samples correctly predicted. => Class 2 Accuracy: 0.5780
+- Class 3: 219 samples correctly predicted. => Class 3 Accuracy: 0.4380
+- Class 4: 199 samples correctly predicted. => Class 4 Accuracy: 0.3980
+- Class 5: 133 samples correctly predicted. => Class 5 Accuracy: 0.2660
+- Class 6: 292 samples correctly predicted. => Class 6 Accuracy: 0.5840
+
+
+
+
+
+
 
