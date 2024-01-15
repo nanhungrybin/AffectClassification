@@ -6,7 +6,12 @@
 ### ExpW
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/57fc78c3-4dbf-4ffe-bb58-ce9d69d5b9c9)
 
-### Affectnet ( 20 epoch )
+### Affectnet ( 20 epoch _ resnet 18)
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/f292a0f7-5be5-4b31-b986-0718fde29db3)
 ![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/fe28850b-1306-4b24-8a5c-7dce585458b9)
 최종 TEST 성능 : 0.5414285714285715
+
+
+### Affectnet ( 20 epoch _ resnet 50)
+![image](https://github.com/nanhungrybin/AffectClassification/assets/97181397/1c25946c-e4ff-471f-82eb-8cd79741c9ed)
+
